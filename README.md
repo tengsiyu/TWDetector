@@ -283,7 +283,7 @@ the checkpoint, dataset, and all remaining hyperparameters fixed.
 
 ## Qualitative Results
 
-Model comparison:
+Model comparisons:
 
 ![TWDetector model comparison](results/visualization/效果图.png)
 
